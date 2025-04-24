@@ -6,20 +6,34 @@
 }
 
 .imgPrincipal {
-   /* background-image: url("../Public/background.jpg");*/
+    background-image: url("../Public/logo-grande.png");
     background-color: #dbdbdb;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    align-items: center;  
+    height: 100vh; /* Altura de la imagen */
+    width: 100vw; /* Ancho de la imagen */
 }
 
 .ImgNosotros {
-    /*background-image: url("../Public/background.jpg");*/
+    background-image: url("../Public/logo-grande-letras-blanco.png");
     background-color: #dbdbdb;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    align-items: center;  
+    height: 100vh; /* Altura de la imagen */
+    width: 100vw; /* Ancho de la imagen */
 
 }
 
 .ImgContacto {
-    /*background-image: url("../Public/background.jpg");*/
+    background-image: url("../Public/con-ingenio-solo-blanco.png");
     background-color: #dbdbdb;
-
+    background-repeat: no-repeat;
+    background-size: 50% 80%;
+    background-position: center;
 }
 
 .container-button {
