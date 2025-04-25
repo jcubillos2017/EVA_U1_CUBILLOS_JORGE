@@ -145,3 +145,11 @@ i {
     position: relative;
     top: 100px;
 }
+
+.col-md-4 {
+    display: grid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+   
+}
+
